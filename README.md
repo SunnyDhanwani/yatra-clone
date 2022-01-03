@@ -1,6 +1,8 @@
 # [YATRAA.NETLIFY.APP](https://yatraa.netlify.app/)
 
+
 This is a clone of *www.yatra.com* website. It is an Indian online travel agency and travel search engine.
+This project was done within 5 days. Here, we have used Material UI for icons and widgets. We have worked great on the sytling part of the website and made it very similar to the original one. Currently, we were able to encorporate the flight booking part of the website. The realtime data was fetched using Skyscanner and Trip advisor API. All the users related data is stored in an online database that is built using MongoDB. Our future scope is to improvise the current website and include hotel booking.
 
 <hr/>
 
@@ -90,4 +92,13 @@ git pull origin <branch_name>
 - Dashboard Page
   - Get whole booking history of user
 
-This project was done within 5 days. Here, we have used Material UI for icons and widgets. We have worked great on the sytling part of the website and made it very similar to the original one. Currently, we were able to encorporate the flight booking part of the website. The realtime data was fetched using Skyscanner and Trip advisor API. All the users related data is stored in an online database that is built using MongoDB. Our future scope is to improvise the current website and include hotel booking.
+## Snapshots
+
+#### Home Page:
+<img width="100%" src="https://github.com/neerajmasai/yatra-clone/blob/main/yatra/public/Screenshot%20(349).png?raw=true" />
+
+#### Booking Page:
+<img width="100%" src="https://github.com/neerajmasai/yatra-clone/blob/main/yatra/public/Screenshot%20(350).png?raw=true" />
+
+#### Booking Details Page:
+<img width="100%" src="https://github.com/neerajmasai/yatra-clone/blob/main/yatra/public/Screenshot%20(351).png?raw=true" />
